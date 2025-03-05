@@ -9,17 +9,14 @@ A simple, interactive To-Do List application built with React.
 - **Delete tasks**: Remove tasks that you no longer need.
 - **Edit tasks**: Update tasks with new details.
 - **Responsive design**: Works on both desktop and mobile devices.
-- **Local Storage**: Tasks are stored in local storage, so they persist between page reloads.
 
-## Demo
 
-You can see a live demo of the To-Do List app here: [Link to Live Demo (if available)].
 
 ## Technologies Used
 
 - **React**: Frontend library used to build the UI.
 - **CSS**: Styling the app with custom styles.
-- **Local Storage**: To persist the data across sessions.
+
 
 ## Installation
 
